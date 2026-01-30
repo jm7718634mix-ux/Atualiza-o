@@ -1,2 +1,3 @@
-index.html
-MeuApp.apk
+public/
+ ├── index.html
+ └── MeuApp.apk
